@@ -13,22 +13,22 @@ Using the material below, you should be able to:
 
 
 | **Week** | **Topics**                                                                                                          | **Resources**                                                                          | **Assignment**                                       |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **1**    | **What Is Applied Ontology?**<br>Disciplinary origins and philosophical foundations | Keet Ch. 1; Smith (2015)               | Install Protégé |
-| **2**    | **Ontology vs. Conceptual Modeling**<br>Realism, universals, particulars, information artifacts.                             | Keet Ch. 2; Smith & Ceusters (2010)                                                               | Diagram: conceptual vs. ontological model of a simple domain.   |
-| **3**    | **BFO and the Ontological Realist Framework**                                                                                | BFO 2.0 Spec; Smith (2018) *“BFO and Scientific Ontologies”*                                      | Model: create a small BFO-aligned domain ontology.              |
-| **4**    | **Logic Foundations**<br>FOL, DL, OWL 2 syntax and semantics.                                                                | Keet Ch. 3 & 4; Beverley *“Logic for Ontologists” notes*                                          | Lab: express a BFO fragment in OWL; test with reasoner.         |
-| **5**    | **Ontological Categories and Relations**<br>Dependent continuants, realizable entities, roles, qualities.                    | Keet Ch. 5; CCO documentation excerpts                                                            | Exercise: classify 15 terms under BFO hierarchy.                |
-| **6**    | **Competency Questions and Ontology Design Patterns**                                                                        | Keet Ch. 6; Beverley (2025) *“Design Patterns for Systematic Disambiguation”*                     | Draft 5 CQs and a DOLCE/BFO design-pattern example.             |
-| **7**    | **Ontology Reuse and Modularization**<br>Upper, core, domain, and application modules.                                       | Keet Ch. 7; Smith & Maly (2023) *“Ontology Modules and Interoperability”*                         | Create an import hierarchy using ROBOT.                         |
-| **8**    | **Midterm Workshop: Building a Mini-Ontology**<br>From CQs to OWL.                                                           | Review prior chapters                                                                             | **Midterm:** 20-term ontology + reasoning demo.                 |
-| **9**    | **Ontology Evaluation and Quality Assurance**<br>Consistency, competency coverage, and SHACL constraints.                    | Keet Ch. 8; Beverley (2024) *“Automated Ontology QC Pipelines”*                                   | Lab: run SHACL validation on a sample ontology.                 |
-| **10**   | **Ontology and AI Integration**<br>Knowledge graphs, embeddings, and LLM alignment.                                          | Keet Ch. 9; Smith (2024) *“Ontologies and AI: Towards Explainable Systems”*                       | Experiment: create RDF graph + SPARQL queries.                  |
-| **11**   | **Ontology Governance and Version Control**<br>Community workflows, GitHub, CI/CD for ontologies.                            | Keet Ch. 10; NCOR *Ontology Tradecraft* repo                                                      | Set up GitHub repo; configure ROBOT + GitHub Actions.           |
-| **12**   | **Applied Ontology in Science and Industry**<br>Biomedicine, Defense, Manufacturing, Policy.                                 | Smith (2022) *“Ontology in Biomedicine”*; Beverley (2024) *“Ontologies in Intelligence Analysis”* | Case study: analyze ontology integration in your field.         |
-| **13**   | **Ethics, Interoperability, and Open Science**<br>Licensing, data sharing, FAIR principles.                                  | Keet Ch. 11; Smith (2023) *“Ontology and Open Science”*                                           | Draft metadata + license for your ontology project.             |
-| **14**   | **Student Project Consultations and Peer Review**                                                                            | No new readings                                                                                   | Present preliminary final projects; peer feedback.              |
-| **15**   | **Final Project Presentations & Future of Applied Ontology**                                                                 | Beverley (2025) *“Systematic Disambiguation as a Methodology.”*                                   | Submit final ontology project + reflection paper.               |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------- |
+| **1**    | **What Is Applied Ontology?**                                          | Arp, et. al. Chapter 1               | **Project 1:** Environment Setup |
+| **2**    | **Applied Ontology and its Discontents**                               | Keet, Chapter 1                      |    |
+| **3**    | **Competency Questions and Engagement**                                | Beverley                             |    |
+| **4**    | **Top-Down, Bottom-Up, Middle-Ins**                                    | Arp, Chapter 3                       | **Project 2:** Deliver Competency Questions |
+| **5**    | **Basic Formal Ontology 1**                                            | Arp, Chapter 5, 6                    |    |
+| **6**    | **Basic Formal Ontology 2**                                            | Arp, Chapter 6, 7                    |    |
+| **7**    | **Common Core Ontologies**                                             | Jensen                               |  **Project 3:** BFO/CCO Design Patterns     |
+| **8**    | **Midterm Workshop: Building a Mini-Ontology**                         | Review prior readings                |    |
+| **9**    | **RDF, RDFs, and OWL**                                                 |                                      |    |
+| **10**   | **Ontology and AI Integration**                    | Keet Ch. 9; Smith (2024) *“Ontologies and AI: Towards Explainable Systems”*  | Experiment: create RDF graph + SPARQL queries.           |
+| **11**   | **Ontology Governance and Version Control**     | Keet Ch. 10; NCOR *Ontology Tradecraft* repo   | Set up GitHub repo; configure ROBOT + GitHub Actions.           |
+| **12**   | **Applied Ontology in Science and Industry** | Smith (2022) *“Ontology in Biomedicine”* | Case study: analyze ontology integration in your field.         |
+| **13**   | **Ethics, Interoperability, and Open Science** | Keet Ch. 11; Smith (2023) *“Ontology and Open Science”*    | Draft metadata + license for your ontology project.             |
+| **14**   | **Student Project Consultations and Peer Review**             |         | Present preliminary final projects; peer feedback.              |
+| **15**   | **Final Project Presentations & Future of Applied Ontology**  | Beverley (2025) *“Systematic Disambiguation as a Methodology.”*      | Submit final ontology project + reflection paper.               |
 
 
 
