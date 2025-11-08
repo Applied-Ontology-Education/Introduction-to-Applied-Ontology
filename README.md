@@ -27,9 +27,9 @@ An exploration of what ontologies are and why they matter. Participants will stu
 
 | **Week** | **Topic** | **Reading** | **Assignment** |
 |:--:|:--|:--|:--|
-| 1 | **Human–Human Interoperability** | Chapter 1, Building Ontologies with BFO | None | 
-| 2 | **Human–Machine Interoperability** | Chapter 2, Semantic Web for the Working Ontologist | [HW #1](https://forms.office.com/r/iRS6rag5Hc) |
-| 3 | **Machine–Machine Interoperability** | Chapter 3, Semantic Web for the Working Ontologist | [HW #2](https://forms.office.com/r/7CL4ZZeqB0) |
+| 1 | **Human–Human Interoperability** | [Chapter 1, Building Ontologies with BFO](https://direct.mit.edu/books/monograph/4044/Building-Ontologies-with-Basic-Formal-Ontology) | None | 
+| 2 | **Human–Machine Interoperability** | [Chapter 2, Semantic Web for the Working Ontologist](https://staff.um.edu.mt/alexiei.dingli/IntroductionToWS/Resources/SWWorkingOntologist.pdf) | [HW #1](https://forms.office.com/r/iRS6rag5Hc) |
+| 3 | **Machine–Machine Interoperability** | [Chapter 3, Semantic Web for the Working Ontologist](https://staff.um.edu.mt/alexiei.dingli/IntroductionToWS/Resources/SWWorkingOntologist.pdf) | [HW #2](https://forms.office.com/r/7CL4ZZeqB0) |
 | 4 | **Systematic Disambiguation** | None | [HW #3](https://forms.office.com/r/w5ibu04Mc2) |
 
 ### *How Are Ontologies Created?* (Weeks 5–9)
@@ -37,7 +37,7 @@ Students will learn ontology design principles and modeling methodologies, from 
 
 | **Week** | **Topic** | **Reading** | **Assignment** |
 |:--:|:--|:--|:--|
-| 5 | **Top-Down Modeling** | Chapter 4, Building Ontologies with BFO | [HW #4](https://forms.office.com/r/F6JRs4h3Le) |
+| 5 | **Top-Down Modeling** | [Chapter 4, Building Ontologies with BFO](https://direct.mit.edu/books/monograph/4044/Building-Ontologies-with-Basic-Formal-Ontology) | [HW #4](https://forms.office.com/r/F6JRs4h3Le) |
 | 6 | **Bottom-Up Modeling** | [Bottom-Up Construction of Ontologies](https://www.researchgate.net/publication/3296767_Bottom-up_construction_of_ontologies) | [HW #5](https://forms.office.com/r/MEU6f89Um4) |
 | 7 | **Middle-In Modeling** | [Ontology Development Strategies and the IDO Ecosystem](https://ceur-ws.org/Vol-3603/workshopOIIDDS1.pdf) | [Exam #1](https://forms.office.com/r/vYAhFVpPHY) |
 | 8 | **Ontological Commitments** | [Ontological Realism: Coordinated Evolution of Ontologies](https://pmc.ncbi.nlm.nih.gov/articles/PMC3104413/) | [HW #6](https://forms.office.com/r/3JrhGaqaqX) |
@@ -48,7 +48,7 @@ Students will study how ontologies drive interoperability in critical applied do
 
 | **Week** | **Topic** | **Reading** | **Assignment** |
 |:--:|:--|:--|:--|
-| 10 | **Military** | [Joint Doctrine Ontology](https://philpapers.org/archive/MORJDO.pdf) | [HW #8](https://forms.office.com/r/taqvHhJznb) week 10 | 
+| 10 | **Military** | [Joint Doctrine Ontology](https://philpapers.org/archive/MORJDO.pdf) | [HW #8](https://forms.office.com/r/taqvHhJznb) | 
 | 11 | **Intelligence** | [Ontology of Information Artifacts in the Intelligence Domain](https://philpapers.org/archive/SMII-16.pdf) | [HW #9](https://forms.office.com/r/GnsGN6nmuZ)  | 
 | 12 | **Health** | [The OBO Foundry](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814061/)  | [HW #10](https://forms.office.com/r/j13ebGH1XX) | 
 | 13 | **Medicine** | [Promoting Healthy Aging]() | None | 
