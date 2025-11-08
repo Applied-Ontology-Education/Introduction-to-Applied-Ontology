@@ -52,8 +52,8 @@ Students will study how ontologies drive interoperability in critical applied do
 | 11 | **Intelligence** | [Ontology of Information Artifacts in the Intelligence Domain](https://philpapers.org/archive/SMII-16.pdf) | [HW #9](https://forms.office.com/r/GnsGN6nmuZ)  | 
 | 12 | **Health** | [The OBO Foundry](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814061/)  | [HW #10](https://forms.office.com/r/j13ebGH1XX) | 
 | 13 | **Medicine** | [Promoting Healthy Aging]() | None | 
-| 14 | **AI 1** | [Ontologies in the Era of LLMs](https://www.researchgate.net/publication/376976321_Ontologies_in_the_era_of_large_language_models_-_a_perspective) | None | 
-| 15 | **AI 2** | [Multiple Roles of Ontologies in Explainable AI](https://arxiv.org/pdf/2311.04778) | [Exam #2](https://forms.office.com/r/5VdyTaum0H) | 
+| 14 | **Artificial Intelligence 1** | [Ontologies in the Era of LLMs](https://www.researchgate.net/publication/376976321_Ontologies_in_the_era_of_large_language_models_-_a_perspective) | None | 
+| 15 | **Artificial Intelligence 2** | [Multiple Roles of Ontologies in Explainable AI](https://arxiv.org/pdf/2311.04778) | [Exam #2](https://forms.office.com/r/5VdyTaum0H) | 
 
 ## Assessment
 Nearly each week, there will be an assignment that must be completed. Assingments will be taken online. The course schedule includes links to each assignment by week it is due. Each assignment is due by Friday evening at 11:59 of the week that it is assigned. 
