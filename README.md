@@ -36,7 +36,7 @@ An exploration of what ontologies are and why they matter. Participants will stu
 Students will learn ontology design principles and modeling methodologies, from abstract frameworks to concrete implementation.
 
 | **Week** | **Topic** | **Reading** | **Assignment** |
-|:--:|:--|:--|
+|:--:|:--|:--|:--|
 | 5 | **Top-Down Modeling** | Chapter 4, Building Ontologies with BFO | [HW #4](https://forms.office.com/r/F6JRs4h3Le) |
 | 6 | **Bottom-Up Modeling** | [Bottom-Up Construction of Ontologies](https://www.researchgate.net/publication/3296767_Bottom-up_construction_of_ontologies) | [HW #5](https://forms.office.com/r/MEU6f89Um4) |
 | 7 | **Middle-In Modeling** | [Ontology Development Strategies and the IDO Ecosystem](https://ceur-ws.org/Vol-3603/workshopOIIDDS1.pdf) | [Exam #1](https://forms.office.com/r/vYAhFVpPHY) |
@@ -47,7 +47,7 @@ Students will learn ontology design principles and modeling methodologies, from 
 Students will study how ontologies drive interoperability in critical applied domains, integrating prior modeling skills into real-world use cases.
 
 | **Week** | **Topic** | **Reading** | **Assignment** |
-|:--:|:--|:--|
+|:--:|:--|:--|:--|
 | 10 | **Military** | [Joint Doctrine Ontology](https://philpapers.org/archive/MORJDO.pdf) | [HW #8](https://forms.office.com/r/taqvHhJznb) week 10 | 
 | 11 | **Intelligence** | [Ontology of Information Artifacts in the Intelligence Domain](https://philpapers.org/archive/SMII-16.pdf) | [HW #9](https://forms.office.com/r/GnsGN6nmuZ)  | 
 | 12 | **Health** | [The OBO Foundry](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814061/)  | [HW #10](https://forms.office.com/r/j13ebGH1XX) | 
